@@ -25,3 +25,7 @@ Responder as seguintes perguntas:
 - Liste TODOS os alunos de um determinado professor. É possível evitar repetições de nomes?
 - Qual é o número total de professores?
 - Quantos alunos matriculados?
+
+Para subir imagem:
+docker run -dti -p 3306:3306 giovanaallarcon/mysql
+https://hub.docker.com/r/giovanaallarcon/mysql
