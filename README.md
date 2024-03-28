@@ -2,6 +2,7 @@
 Trabalho proposto na matéria de Banco de Dados
 
 Proposta do trabalho: 
+
 Crie suas tabelas, usando apenas comandos SQL, para:
 - Aluno de uma Universidade;
 - Matéria de um Curso;
