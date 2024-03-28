@@ -10,10 +10,12 @@ Crie suas tabelas, usando apenas comandos SQL, para:
 - Curso de uma Universidade;
   
 Insira alguns dados nas tabelas, através de comandos SQL.
+
 Demonstre e explique os comandos usados para:
-Criar as tabelas.
-Fazer os relacionamentos entre os dados.
-Inserir dados fictícios nas tabelas.
+- Criar as tabelas.
+- Fazer os relacionamentos entre os dados.
+- Inserir dados fictícios nas tabelas.
+  
 Responder as seguintes perguntas:
 - Encontre os professores de um aluno específico.
 - Quais matérias tem mais de 3 alunos matriculados?
