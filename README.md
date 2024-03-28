@@ -1,13 +1,14 @@
-# Banco-de-Dados-MySQL---Apresenta-o-5
+# Banco de Dados MySQL - Apresentação 5
 Trabalho proposto na matéria de Banco de Dados
 
-Proposta do trabalho: 
+# Proposta do trabalho: 
 
 Crie suas tabelas, usando apenas comandos SQL, para:
 - Aluno de uma Universidade;
 - Matéria de um Curso;
 - Professor de uma Universidade;
 - Curso de uma Universidade;
+  
 Insira alguns dados nas tabelas, através de comandos SQL.
 Demonstre e explique os comandos usados para:
 Criar as tabelas.
