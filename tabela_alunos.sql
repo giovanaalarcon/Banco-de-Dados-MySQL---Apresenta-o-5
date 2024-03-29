@@ -2,7 +2,7 @@ create database db_apresentacao5;
 use db_apresentacao5;
 
 create table alunos (
-	id int unsigned not null auto_increment,
+	id int unsigned not null auto_increment primary key,
     nome varchar(60) not null,
     ra int not null,
     idade int not null
