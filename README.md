@@ -30,7 +30,7 @@ Para subir imagem:
 
 docker pull giovanaallarcon/mysql
 
-docker run -e MYSQL_ROOT_PASSWORD=root --name <'nomedocontainer'> -d giovanaallarcon/mysql
+docker run -e MYSQL_ROOT_PASSWORD=root --name my2 -p 3306:3306 -d giovanaallarcon/mysql
 
 https://hub.docker.com/r/giovanaallarcon/mysql
 
