@@ -26,7 +26,7 @@ Responder as seguintes perguntas:
 - Qual é o número total de professores?
 - Quantos alunos matriculados?
 
-Para subir imagem:
+Para subir imagem (usando GIT BASH):
 
 docker pull giovanaallarcon/mysql
 
