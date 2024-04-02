@@ -28,7 +28,9 @@ Responder as seguintes perguntas:
 
 Para subir imagem:
 
-docker run -dti -p 3306:3306 giovanaallarcon/mysql
+docker pull giovanaallarcon/mysql
+
+docker run -e MYSQL_ROOT_PASSWORD=root --name <'nomedocontainer'> -d giovanaallarcon/mysql
 
 https://hub.docker.com/r/giovanaallarcon/mysql
 
