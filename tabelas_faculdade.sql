@@ -149,12 +149,11 @@ WHERE aluno.id_aluno = 2;
 /*
 Codigo que diz quais matérias tem mais de 3 alunos matriculados
 */
-
-
-
-
-
-
+SELECT m.nome_materia
+FROM materia m
+INNER JOIN alunos_materias am ON m.id_materia = am.materiaID
+GROUP BY m.id_materia
+HAVING COUNT(DISTINCT am.alunoID) > 3;
 
 /*
 Codigo que diz quais são os alunos de uma determinada matéria 
