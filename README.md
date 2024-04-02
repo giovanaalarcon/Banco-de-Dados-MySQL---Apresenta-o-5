@@ -28,9 +28,13 @@ Responder as seguintes perguntas:
 
 Para subir imagem (usando GIT BASH):
 
+```sh
 docker pull giovanaallarcon/mysql
+```
 
+```sh
 docker run -e MYSQL_ROOT_PASSWORD=root --name my2 -p 3306:3306 -d giovanaallarcon/mysql
+```
 
 https://hub.docker.com/r/giovanaallarcon/mysql
 
