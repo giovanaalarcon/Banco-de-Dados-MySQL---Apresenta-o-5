@@ -39,4 +39,10 @@ docker run -e MYSQL_ROOT_PASSWORD=root --name my2 -p 3306:3306 -d giovanaallarco
 https://hub.docker.com/r/giovanaallarcon/mysql
 
 
+### Pessoas Desenvolvedoras: 
+- Beatriz Cupa Newman
+- Daniela Akemi Hayashi
+- Flávia Cristina Medeiros
+- Giovana Salazar Alarcon
+- Luana Bresciani Baptista
 
