@@ -9,11 +9,11 @@ create table curso (
 
 insert into curso (nome_curso, codigo_curso)
 values
-		('Administração', 'AD5010'), 
-        ('Engenharia Civil', 'EC0120'), 
-        ('Engenharia de Computação', 'ET0230'), 
-        ('Engenharia Mecânica', 'EM2012'), 
-        ('Sistemas de Informação', 'SI1205');
+	('Administração', 'AD5010'), 
+	('Engenharia Civil', 'EC0120'), 
+	('Engenharia de Computação', 'ET0230'), 
+	('Engenharia Mecânica', 'EM2012'), 
+	('Sistemas de Informação', 'SI1205');
 show tables;
 
 create table aluno (
@@ -27,16 +27,16 @@ create table aluno (
 
 insert into aluno (nome, ra, idade, cursoID)
 values
-		('Daniela Hayashi', '22005265', '22', 3), 
-        ('Carlos Teixeira', '22004932', '24', 1), 
-        ('Beatriz Newman', '22001652', '19', 3),
-        ('Matheus Silveira', '22003456', '22', 2), 
-        ('Flavia Medeiros', '22009596', '20', 3), 
-        ('Paola Pereira', '22007712', '20', 4), 
-        ('Giovana Alarcon', '22003652', '19', 3),
-        ('Luis Miguel', '22008967', '25', 5), 
-        ('Luana Baptista', '22006728', '20', 3),
-        ('Marcos Silva', '22003768', '22', 2);
+	('Daniela Hayashi', '22005265', '22', 3), 
+	('Carlos Teixeira', '22004932', '24', 1), 
+	('Beatriz Newman', '22001652', '19', 3),
+	('Matheus Silveira', '22003456', '22', 2), 
+	('Flavia Medeiros', '22009596', '20', 3), 
+	('Paola Pereira', '22007712', '20', 4), 
+	('Giovana Alarcon', '22003652', '19', 3),
+	('Luis Miguel', '22008967', '25', 5), 
+	('Luana Baptista', '22006728', '20', 3),
+	('Marcos Silva', '22003768', '22', 2);
 show tables;
 
 create table materia (
